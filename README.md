@@ -1,2 +1,2 @@
 # casee
-Developmental disabilities targeted case management organizer. Customizable fields, searchable database files.
+Developmental disabilities targeted case management organizer. Customizable fields, searchable yaml files.
